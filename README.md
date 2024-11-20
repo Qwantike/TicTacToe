@@ -1,2 +1,2 @@
 # TicTacToe
-Backtracking programme for tictactoe in c++
+Backtracking program for tictactoe in c++
